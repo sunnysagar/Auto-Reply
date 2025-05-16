@@ -8,8 +8,6 @@ You can download the app from the Play Store by clicking the following link:
 
 The app instantly replies to incoming messages, allowing you to stay connected without physically interacting with your phone. Whether you're away on vacation, sleeping, or simply busy, Auto-Reply-Android ensures that your contacts receive timely responses. You have the flexibility to customize your replies and adjust the frequency with which certain users receive specific messages.
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/prasoonk187)
 
 ## Screenshots
 
@@ -30,8 +28,6 @@ AutoReply offers the following features:
 - No tracking or monitoring of user activities
 - Free to use
 - In-app updates using Play Core
-- Open-source nature, available on [GitHub](https://www.github.com/it5prasoon/Auto-Reply-Android)
-
 ## ToDo
 
 Here are the tasks in progress and planned for future development:
@@ -66,19 +62,3 @@ AutoReply is built using the following technologies and open-source libraries:
 
 ```
 
-## Contribution Guidelines
-
-- Fork the repository, do code changes and then do a pull request.
-- If your PR is approved then you are good to go.
-
-## Important Note
-
-When the application sends a reply to a specific user, it waits for a 10-second interval before sending the next reply (unless the reply frequency is set to 1). Please note that this delay does not indicate any issues with the application's functionality.
-
-For the source code and contributions, please visit the [AutoReply GitHub repository](https://www.github.com/it5prasoon/Auto-Reply-Android).
-
-The application is currently in the development phase, and your code contributions are greatly appreciated. Feel free to fork the repository and make pull requests. We look forward to your collaboration.
-
-Please note that this application is not affiliated with any company, including WhatsApp and Facebook.
-
-For any inquiries or further information, you can contact me at prasoonk187@gmail.com.
